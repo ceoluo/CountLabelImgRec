@@ -1,0 +1,40 @@
+<annotation>
+	<folder>test</folder>
+	<filename>0f1b597d068773aedc5773a888fe6947.jpg</filename>
+	<path>E:\Work\RocKontrol\label_tools\labelImg\test\0f1b597d068773aedc5773a888fe6947.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<BboxCount>2</BboxCount>
+	<saveDateTime>2020-07-02 09:25:15</saveDateTime>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>876</xmin>
+			<ymin>399</ymin>
+			<xmax>1192</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>1157</ymin>
+			<xmax>1644</xmax>
+			<ymax>1462</ymax>
+		</bndbox>
+	</object>
+</annotation>
